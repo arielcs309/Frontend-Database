@@ -1,7 +1,7 @@
 # Student Management Web Application (PHP & PostgreSQL)
 
 ## Description
-This is a simple web application for managing student records, built with PHP and PostgreSQL. The project allows users to add new students through a web form, storing their details in a PostgreSQL database. It demonstrates the integration of front-end forms with a back-end database using PHP.
+This is a simple web application for managing student records, built with PHP and PostgreSQL. Users can add new students through a web form, storing their details in a PostgreSQL database. The project demonstrates full-stack integration of front-end HTML forms with a back-end database using PHP.
 
 ## Features
 - Add new student records with the following fields:
@@ -10,12 +10,12 @@ This is a simple web application for managing student records, built with PHP an
   - Date of Birth
   - Email
 - PostgreSQL handles automatic student ID generation (`codigoaluno`) with identity columns.
-- Simple and clean HTML front-end interface.
+- Clean and simple HTML/CSS front-end form.
 
 ## Technologies Used
 - **PHP 8.x** for server-side scripting
 - **PostgreSQL** as the database
-- **HTML & CSS** for the front-end form
+- **HTML & CSS** for the front-end
 - Optional: **pgAdmin** for database management
 
 ## Getting Started
@@ -25,7 +25,11 @@ This is a simple web application for managing student records, built with PHP an
 - PostgreSQL installed and running
 - Web browser to access the form
 
-### Installation
-1. Clone the repository:
+### Installation & Usage
+Follow these steps to set up and run the project:
+
+1. **Clone the repository:**
    ```bash
    git clone https://github.com/your-username/your-repo.git
+
+   
